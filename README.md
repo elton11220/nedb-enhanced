@@ -7,12 +7,12 @@
 > To find the API you want, please visit the original [README.md](https://github.com/louischatriot/nedb/blob/master/README.md)
 
 ## Installation, tests
-Module name on npm and bower is `nedb-plus`.
+Module name on npm and bower is `nedb-enhanced`.
 
 ```
-npm install nedb-plus --save    # Put latest version in your package.json
+npm install nedb-enhanced --save    # Put latest version in your package.json
 npm test                   # You'll need the dev dependencies to launch tests
-bower install nedb-plus         # For the browser versions, which will be in browser-version/out
+bower install nedb-enhanced         # For the browser versions, which will be in browser-version/out
 ```
 
 ## Differences from nedb

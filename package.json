@@ -1,5 +1,5 @@
 {
-  "name": "nedb-plus",
+  "name": "nedb-enhanced",
   "version": "1.0.0",
   "author": {
     "name": "elton11220",
@@ -15,10 +15,10 @@
     "datastore",
     "embedded"
   ],
-  "homepage": "https://github.com/elton11220/nedb-plus",
+  "homepage": "https://github.com/elton11220/nedb-enhanced",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elton11220/nedb-plus.git"
+    "url": "git+https://github.com/elton11220/nedb-enhanced.git"
   },
   "dependencies": {
     "async": "0.2.10",

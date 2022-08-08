@@ -7,12 +7,12 @@
 > 想查看Nedb的API，请访问原始Nedb仓库的 [README.md](https://github.com/louischatriot/nedb/blob/master/README.md)
 
 ## 安装 & 测试
-此模块在npm和bower的名字是 `nedb-plus`.
+此模块在npm和bower的名字是 `nedb-enhanced`.
 
 ```shell
-npm install nedb-plus --save    # 将最新版模块放进你的 package.json
+npm install nedb-enhanced --save    # 将最新版模块放进你的 package.json
 npm test                        # 你将会需要dev依赖去运行测试
-bower install nedb-plus         # 浏览器版本将会在 browser-version/out 输出
+bower install nedb-enhanced         # 浏览器版本将会在 browser-version/out 输出
 ```
 
 ## 与Nedb的不同点
