@@ -1,5 +1,5 @@
 {
-"name": "nedb",
+"name": "nedb-plus",
 "description": "The Javascript Database for Node, nwjs, Electron and the browser",
 "ignore": ["benchmarks", "lib", "test", "test_lac"],
 "main": ["browser-version/nedb.js", "browser-version/nedb.min.js"]
